@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "username": "maria_gomez",
+    "mail": "maria.gomez@example.com",
+    "password": "password123",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtYWlsIjoibWFyaWEuZ29tZXpAZXhhbXBsZS5jb20iLCJpYXQiOjE3MDI5NjQyMDQsImV4cCI6MTcwMjk2NjAwNH0.C2rg4zjdzFV-YH7iCtfRLqN2nP9m1sfGTwv8W-mK2ms"
+  },
+  {
+    "id": 2,
+    "username": "juan_perez",
+    "mail": "juan.perez@example.com",
+    "password": "abc123"
+  },
+  {
+    "id": 3,
+    "username": "laura_martinez",
+    "mail": "laura.martinez@example.com",
+    "password": "testpass"
+  },
+  {
+    "id": 4,
+    "username": "carlos_rodriguez",
+    "mail": "carlos.rodriguez@example.com",
+    "password": "123456"
+  },
+  {
+    "id": 5,
+    "username": "ana_sanchez",
+    "mail": "ana.sanchez@example.com",
+    "password": "letmein"
+  }
+]

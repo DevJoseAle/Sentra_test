@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45195774
+    },
+    {
+      "id": 2,
+      "name": "Brasil",
+      "capital": "Brasília",
+      "population": 213993437
+    },
+    {
+      "id": 3,
+      "name": "Brunei",
+      "capital": "Bandar Seri Begawan",
+      "population": 437479
+    },
+    {
+      "id": 4,
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 83783942
+    },
+    {
+      "id": 5,
+      "name": "Greece",
+      "capital": "Athens",
+      "population": 10423054
+    },
+    {
+      "id": 6,
+      "name": "Greenland",
+      "capital": "Nuuk",
+      "population": 56770
+    },
+    {
+      "id": 7,
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "population": 17915568
+    },
+    {
+      "id": 8,
+      "name": "Guinea",
+      "capital": "Conakry",
+      "population": 13132795
+    },
+    {
+      "id": 9,
+      "name": "Guyana",
+      "capital": "Georgetown",
+      "population": 786552
+    },
+    {
+      "id": 10,
+      "name": "India",
+      "capital": "New Delhi",
+      "population": 1393409038
+    }
+  ]
+  
