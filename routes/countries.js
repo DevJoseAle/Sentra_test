@@ -5,6 +5,6 @@ const router = Router();
 
 
 router.get('/',checkJWT, getCountries);
-
+ 
 
 module.exports = router;

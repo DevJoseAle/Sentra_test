@@ -5,7 +5,7 @@ const generateJWT = ( mail) =>{
     return new Promise((resolve, reject) => {
         const payload = { mail };   
         jwt.sign(payload, process.env.SECRET_JWT_SEED, {
-            expiresIn: '30mins'
+            expiresIn: '2hrs'
         }, (err, token) => {
             if(err){
                 console.log(err);
