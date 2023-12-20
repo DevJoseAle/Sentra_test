@@ -14,7 +14,7 @@ Inicia el servidor utilizando Nodemon para detectar cambios en el código:
 npm run dev
 
 ## 4. Variables de Entorno y Puerto
-Para este test, las variables de entorno necesarias ya están configuradas y el servidor estará disponible en el puerto 3000.
+Para efectos de este test, las variables de entorno necesarias ya están configuradas y son publicas el servidor estará disponible en el puerto 3000.
 
 ## 5. Datos en la Carpeta "data"
 La carpeta "data" contiene archivos JSON con información de usuarios y países.
